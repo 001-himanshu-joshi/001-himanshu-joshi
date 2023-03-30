@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Spring Boot**
 
-- 👨‍💻 All of my projects are available at [https://github.com/himanshu-joyboy?tab=repositories](https://github.com/himanshu-joyboy?tab=repositories)
+- 👨‍💻 All of my projects are available at [https://github.com/001-himanshu-joshi?tab=repositories]([https://github.com/himanshu-joyboy?tab=repositories](https://github.com/001-himanshu-joshi?tab=repositories))
 
 - 📫 How to reach me **himanshujoshigp@gmail.com**
 
