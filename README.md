@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Himanshu Joshi</h1>
 <h3 align="center">A passionate Software developer from India</h3>
 
-<img align="right" alt="Dynamic Coder" width=350 src="https://media3.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif">
+<img align="right" alt="Dynamic Coder" width=320 src="https://media3.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=himanshu-joshi&label=Profile%20views&color=0e75b6&style=flat" alt="himanshu-joshi" /> </p>
 
