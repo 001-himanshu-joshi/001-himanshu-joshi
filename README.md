@@ -5,7 +5,11 @@
 
 
 # 💫 About Me:
-🔭 I’m currently working on Backend Development<br>👯 I’m looking to collaborate on Spring Security and Microservices<br>🌱 I’m currently learning Spring Boot<br>💬 Ask me about backend<br>⚡ Fun fact I am technically sound person
+- As a backend developer, I bring expertise in Java, OOPs, Spring Boot, Hibernate, Spring Security, MySQL, HTML, CSS, Postman, and Swagger. I have a proven track record of developing robust and scalable web applications, using my skills to build RESTful APIs and integrating various frontend frameworks with backend systems.
+- My proficiency in Java enables me to write efficient and reusable code that follows industry-standard design patterns and principles. I have hands-on experience with Spring Boot and Hibernate frameworks, which allows me to develop and maintain complex web applications with ease.
+- Additionally, I am well-versed in Spring Security, which helps me create secure and resilient applications that protect against common vulnerabilities. I have also worked with MySQL and other databases, enabling me to design and optimize database schemas, perform complex queries, and troubleshoot performance issues.
+- Furthermore, I have a strong grasp of frontend technologies such as HTML and CSS, which makes me proficient in creating responsive and visually appealing user interfaces. I am also familiar with tools like Postman and Swagger, allowing me to test and document my APIs with ease.
+- Overall, I am a valuable asset to any team, bringing a diverse skill set and a passion for creating high-quality software solutions.
 
 
 ## 🌐 Socials:
