@@ -5,11 +5,15 @@
 
 
 # 💫 About Me:
-- As a backend developer, I bring expertise in Java, OOPs, Spring Boot, Hibernate, Spring Security, MySQL, HTML, CSS, Postman, and Swagger. I have a proven track record of developing robust and scalable web applications, using my skills to build RESTful APIs and integrating various frontend frameworks with backend systems.
-- My proficiency in Java enables me to write efficient and reusable code that follows industry-standard design patterns and principles. I have hands-on experience with Spring Boot and Hibernate frameworks, which allows me to develop and maintain complex web applications with ease.
-- Additionally, I am well-versed in Spring Security, which helps me create secure and resilient applications that protect against common vulnerabilities. I have also worked with MySQL and other databases, enabling me to design and optimize database schemas, perform complex queries, and troubleshoot performance issues.
-- Furthermore, I have a strong grasp of frontend technologies such as HTML and CSS, which makes me proficient in creating responsive and visually appealing user interfaces. I am also familiar with tools like Postman and Swagger, allowing me to test and document my APIs with ease.
-- Overall, I am a valuable asset to any team, bringing a diverse skill set and a passion for creating high-quality software solutions.
+- Backend developer with expertise in Java, OOPs, Spring Boot, Hibernate, Spring Security, MySQL, HTML, CSS, Postman, and Swagger.
+- Experienced in developing robust and scalable web applications and building RESTful APIs.
+- Proficient in writing efficient and reusable code using industry-standard design patterns and principles.
+- Skilled in Spring Boot and Hibernate frameworks for easy maintenance of complex web applications.
+- Knowledgeable in Spring Security for creating secure and resilient applications.
+- Strong grasp of MySQL and other databases for designing and optimizing database schemas.
+- Proficient in HTML and CSS for creating responsive and visually appealing user interfaces.
+- Familiar with Postman and Swagger for testing and documenting APIs.
+- Passionate about creating high-quality software solutions.
 
 
 ## 🌐 Socials:
